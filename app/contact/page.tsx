@@ -76,7 +76,7 @@ export default function ContactPage() {
                       <div>
                         <h3 className="font-bold mb-1">الهاتف</h3>
                         <p className="text-sm text-muted-foreground" dir="ltr">
-                          +966 50 123 4567
+                          +966 530 908 594
                         </p>
                       </div>
                     </div>
@@ -183,7 +183,7 @@ export default function ContactPage() {
                             id="phone"
                             name="phone"
                             type="tel"
-                            placeholder="+966 50 123 4567"
+                            placeholder="+966 530 908 594"
                             value={formData.phone}
                             onChange={handleChange}
                           />
