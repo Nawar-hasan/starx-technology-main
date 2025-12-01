@@ -152,7 +152,7 @@ export function Footer() {
                   className="text-sm text-muted-foreground hover:text-primary transition-colors"
                   dir="ltr"
                 >
-                  +966 50 123 4567
+                  +966 530 908 594
                 </a>
               </li>
               <li className="flex items-start gap-2">
