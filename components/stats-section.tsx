@@ -6,7 +6,7 @@ import { useEffect, useState } from "react"
 const stats = [
   { value: 150, suffix: "+", label: "مشروع منجز" },
   { value: 50, suffix: "+", label: "عميل راضٍ" },
-  { value: 10, suffix: "+", label: "سنوات خبرة" },
+  { value: 10, suffix: "+", label: "مهندس بخبرة عالية" },
   { value: 98, suffix: "%", label: "نسبة النجاح" },
 ]
 
